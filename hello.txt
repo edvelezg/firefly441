@@ -1,2 +1,9 @@
 I want to create this project.
-good organ 
+good organ
+
+1)code.google.com/p/firefly441
+2)open terminal
+3)paste svn address given in source tab
+4)accept in terminal
+5)password
+
