@@ -1,1 +1,11 @@
 I am writing this journal to learn 
+
+shift a to insert to insert at the end
+
+alt d for highlighting address bar
+
+alt d right arrow to go to the end of URL
+
+vi (document.txt) to edit
+
+
