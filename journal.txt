@@ -8,4 +8,8 @@ alt d right arrow to go to the end of URL
 
 vi (document.txt) to edit
 
+ls means list whats in the directory
 
+cd means to change directory
+
+to edit a .txt you type vi (name of document here) 
