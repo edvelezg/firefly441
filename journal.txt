@@ -1,3 +1,9 @@
+cd means change directory
+
+ls means list
+
+svn ci -m "" is how to send log
+
 I am writing this journal to learn 
 
 shift a to insert to insert at the end
