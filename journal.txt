@@ -19,3 +19,15 @@ ls means list whats in the directory
 cd means to change directory
 
 to edit a .txt you type vi (name of document here) 
+
+code for slickedit:
+
+#include <iostream>
+
+using namespace std;
+
+int main (int argc, char *argv[])
+{
+    cout << "Hi how are you! " << endl;
+    return 0;
+}
